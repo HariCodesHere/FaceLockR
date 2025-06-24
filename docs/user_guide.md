@@ -137,14 +137,5 @@ python software/face_detection.py
 
 ## 📞 Support
 For additional help:
-- Email: support@facelockr.com
 - GitHub: [Issues Page](https://github.com/yourusername/FaceLockR/issues)
-~~~
-
-Key features:
-1. Uses `~~~` for all code blocks
-2. Clear visual hierarchy with emoji headers
-3. Includes safety warnings
-4. Provides troubleshooting section
-5. Maintains consistent formatting
 
