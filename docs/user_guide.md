@@ -137,5 +137,5 @@ python software/face_detection.py
 
 ## 📞 Support
 For additional help:
-- GitHub: [Issues Page](https://github.com/yourusername/FaceLockR/issues)
+- GitHub: [Issues Page](https://github.com/HariCodesHere/FaceLockR/issues)
 
