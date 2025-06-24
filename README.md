@@ -1,7 +1,7 @@
 # FaceLockR 🔒  
 *A face recognition-based smart lock system using OpenCV and Arduino*
 
-![Project Demo GIF/Screenshot](#) *(Add demo media link later)*: # 
+![Project Demo GIF/Screenshot](#) *(Will be added once the project is complete)*
 
 ## 🚀 Features  
 - Real-time face detection & recognition with **OpenCV**  
