@@ -26,4 +26,7 @@ jobs:
         
     - name: Run basic tests
       run: |
+        # Create test data directory if it doesn't exist
+        mkdir -p software/tests/test_data/
+        # Add commands to download test images if needed
         python -m pytest software/tests/
